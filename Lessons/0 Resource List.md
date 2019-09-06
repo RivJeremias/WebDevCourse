@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>000 Resource List</title>
+  <title>0 Resource List</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
