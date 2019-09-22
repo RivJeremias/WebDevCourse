@@ -6,6 +6,8 @@ body {
     margin: auto;
 }
 
+/* Style basic text */
+
 h1 {
     color: #66757F;
     padding: 20px;
@@ -65,6 +67,8 @@ p {
     color: white;
 }
 
+/* Style table for schedule page */
+
 table {
     border-collapse: collapse;
     width: 100%;
@@ -75,9 +79,13 @@ th, td {
     padding: 8px;
 }
 
+/* Makes every other line grey */
+
 tr:nth-child(even) {
     background-color: #E1E8ED;
 }
+
+/* Styles for forms */
 
 legend {
     border: none;
@@ -126,6 +134,8 @@ textarea {
     background-color: #E1E8ED;
     padding: 20px;
 }
+
+/* Styles for list on Syllabus page */
 
 h2 {
     font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
